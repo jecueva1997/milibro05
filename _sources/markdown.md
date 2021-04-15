@@ -2,7 +2,7 @@
 
 Materias:
 
-## Primer Ciclo?
+## Primer Ciclo
 
  - Fundamentos de la computación
  - Fundamentos Matemáticos
